@@ -79,7 +79,7 @@ define('MODULES_SLOWNIK',331);
 define('MODULES_CONFIG',340);
 define('MODULES_PASSWORD',320);
 define('MODULES_REGISTRYEQUIPMENT',350); // środki trwałe
-
+define('MODULES_JAMBOX',360);
 
 define('MONIT_NONE',0);
 define('MONIT_NODES',1);
